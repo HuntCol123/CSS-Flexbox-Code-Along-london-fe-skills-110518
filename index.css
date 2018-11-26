@@ -19,7 +19,8 @@ main {
   align-content: center;
   flex-flow: column wrap;
   align-items: center;
-  
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
